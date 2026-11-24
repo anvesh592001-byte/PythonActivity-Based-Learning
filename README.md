@@ -2,6 +2,16 @@
 
 Ten independent Python 3 case studies using introductory constructs. Open a case-study document for its problem statement, objectives, assumptions, algorithm, flowchart, pseudocode, source, tests, output image and conclusion.
 
+## Student details
+
+- **Name:** Anvesh Garikamukku
+- **Section:** 2
+- **Year:** 1
+
+### Introduction
+
+This repository contains a collection of beginner-friendly Python programs created for activity-based learning. Each case study applies core programming concepts such as variables, conditionals, loops, functions, collections, input validation and simple data analysis to practical everyday scenarios. The project is intended to strengthen problem-solving skills and provide clear examples of how Python can be used to model real-world tasks.
+
 ## Run
 
 Run from this folder: `python 01_parking.py` (replace with the chosen file). Case 08 is interactive; all other files run the provided sample data, which can be edited in the source. No third-party Python packages are required by the programs.
