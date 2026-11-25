@@ -4,9 +4,12 @@ Ten independent Python 3 case studies using introductory constructs. Open a case
 
 ## Student details
 
-- **Name:** Anvesh Garikamukku
-- **Section:** 2
-- **Year:** 1
+| **Detail** | **Value** |
+|---|---|
+| Name | Anvesh Garikamukku |
+| Roll Number | N26V01A0089 |
+| Year | 1 |
+| Section | 2 |
 
 ### Introduction
 
